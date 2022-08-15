@@ -1,2 +1,2 @@
 # ProjectsCreator
-Аналог prjCreator (https://github.com/PoorMercymain/prjCreator)
+Другая версия приложения, которое по задумке должно было давать возможность просмотра проектов из приложений наподобие Microsoft Project в структурированном виде.
